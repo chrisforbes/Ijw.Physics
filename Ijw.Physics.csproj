@@ -33,15 +33,15 @@
   <ItemGroup>
     <Reference Include="Ijw.DirectX, Version=0.0.0.0, Culture=neutral, processorArchitecture=x86">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\Ijw.DirectX\Release\Ijw.DirectX.dll</HintPath>
+      <HintPath>Ijw.DirectX\Release\Ijw.DirectX.dll</HintPath>
     </Reference>
     <Reference Include="Ijw.Math, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\IjwFramework\Ijw.Math\bin\Release\Ijw.Math.dll</HintPath>
+      <HintPath>Ijw.DirectX\Ijw.Framework\Ijw.Math\bin\Release\Ijw.Math.dll</HintPath>
     </Reference>
     <Reference Include="IjwFramework, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\IjwFramework\IjwFramework\bin\Release\IjwFramework.dll</HintPath>
+      <HintPath>Ijw.DirectX\Ijw.Framework\IjwFramework\bin\Release\IjwFramework.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core">
